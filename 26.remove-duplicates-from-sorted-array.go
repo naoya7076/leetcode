@@ -5,7 +5,6 @@
  */
 package main
 
-// numsの
 // @lc code=start
 func removeDuplicates(nums []int) int {
 	if len(nums) == 0 {
